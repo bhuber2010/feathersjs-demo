@@ -8,6 +8,7 @@
       "secret": "S8BgJw9c4Y+P92dzyu10OAm9x68Nnp+5p2giUDQwOZGUfrnRaQ4mlG//kojTMbS88pkYN6OF5/vwwL7/UDz4JQ=="
     },
     "local": {},
+    "successRedirect": "/chat.html",
     "facebook": {
       "clientID": "your facebook client id",
       "clientSecret": "your facebook client secret",
